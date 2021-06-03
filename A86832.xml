@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the ministers of the counties of Suffolke and Essex, concerning church-government. Presented to the Right Honourable the House of Peers on Fryday, May 29. 1646. With their answer thereunto. Die Veneris, 29 Maii, 1646. Ordered by the Lords assembled in Parliament, that this petition and answer be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86832</idno><idno type="EEBO-CITATION">99861484</idno>
+  <idno type="VID">159722</idno>
+  <idno type="EEBO-PROQUEST">2240960800</idno>
+  
+            <idno type="STC">Wing H3564</idno>
+            <idno type="STC">Thomason E339_11</idno>
+            <idno type="STC">ESTC R200858</idno>
+            <idno type="PROQUEST">99861484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861484e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the ministers of the counties of Suffolke and Essex, concerning church-government. Presented to the Right Honourable the House of Peers on Fryday, May 29. 1646. With their answer thereunto. Die Veneris, 29 Maii, 1646. Ordered by the Lords assembled in Parliament, that this petition and answer be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright at the Kings Head in the Old Bayley.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1 June 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: The answer of the House of Commons to the ministers petition. Die Mercurii 27 Maii. 1646.</note>
+                  <note>In favor of Presbyterianism and against toleration--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159722:1"/>
+            <p>The Humble PETITION OF THE MINISTERS Of the Counties of <hi>Suffolke</hi> and <hi>Essex,</hi> Concerning Church-Government.</p>
+            <p>Presented to the Right Honourable the House of Peers on Fryday, <hi>May</hi> 29. 1946.</p>
+            <p>With their Answer thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris 29 Maii, 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lord Assembled in Parliament, That this Petition and Answer be forthwith Printed and published.</p>
+                        <closer>
+                           <signed>Jo. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iohn Wright</hi> at the Kings Head in the Old Bayley. 1 June 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:159722:2"/>
+            <pb n="1" facs="tcp:159722:2"/>
+            <head>To the Right Honourable the House of Lords now Assembled in PARLIAMENT.</head>
+            <head type="sub">The Humble Petition of the Ministers of <hi>Suffolk</hi> and <hi>Essex.</hi>
+            </head>
+            <div type="body_of_petition">
+               <opener>Sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat your solemne League and Covenant, your great and glorious Victories, the expectation of the Reformed Churches beyond the Seas, the longing desires of our Brethren of <hi>Scotland,</hi> the humble Petitions of the Reverend Assembly, and the great City of this Kingdome, the pressing miseries of the Orthodox and well-affected Ministers and People in the Country, cry aloud to your Honours for a setling of Church-Government according to the Word. From the want of this it is, Right Honourable, that the name of the most High God is blasphemed, his precious truths corrupted, his Word despi<g ref="char:EOLhyphen"/>sed, his Ministers discouraged, his Ordinances vilified. Hence it is, that Schisme, Heresie, Ignorance, Prophanenesse, and Atheisme, flow in upon us, Seducers multiply, grow daring and insolent, pernicious Books poyson many souls, piety and learning decay apace, very many Congregations ly waste with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:159722:3"/>Pastours, the Sacrament of Baptisme by many neglected, and by many re-iterated, the Lords Supper generally dis-used or exceedingly prophaned, confusion and ruine threatning as in all our Quarters.</p>
+               <p>In all humility therefore acknowledging your unwearied labours for the publique good, your successefull endea<g ref="char:EOLhyphen"/>vours for saving this Kingdom, your hopefull beginnings of a blessed Reformation; we out of conscience and in tender regard to the glory of God, and the salvation of our people, beseech your Honours, That a forme of Church-Government, according to the Word of God, and the example of the best Reformed Churches, may with all possible speed be perfected, &amp; confirmed by your civill sanction; that Schismaticks, Hereticks, seducing Teachers, and soul-subverting Books, be effectually sup<g ref="char:EOLhyphen"/>pressed; That further care may be had of Ordination for a supply of able and Orthodox Ministers, and all good meanes used to make up the sad breaches in this our <hi>Sion.</hi> So shall the Church of God be setled, your hands strengthned, the sacred Covenant performed, our feares prevented, the Judgements of God diverted.</p>
+               <closer>And your Petitioners shall ever pray, &amp;c.</closer>
+            </div>
+            <div type="lists_of_petitioners">
+               <div type="part">
+                  <list>
+                     <head>For the County of <hi>Suffolke.</hi>
+                     </head>
+                     <item>Matth. Laurence.</item>
+                     <item>Robert Stansbye.</item>
+                     <item>Thomas Cave.</item>
+                     <item>Isaac Basil.</item>
+                     <item>John Fuellr.</item>
+                     <item>Nathaniel Smart.</item>
+                     <item>William Fincham.</item>
+                     <item>Christop. Glascock.</item>
+                     <item>John Wallace.</item>
+                     <item>Thomas Warren of Witnesham.</item>
+                     <item>Robert Steffe.</item>
+                     <item>Robert Cade.</item>
+                     <item>William Austen.</item>
+                     <item>Thomas Richer.</item>
+                     <item>William Redgrave.</item>
+                     <item>Matth. Brownrigge.</item>
+                     <item>John Cooper.</item>
+                     <item>Richard Jennings.</item>
+                     <item>John Wilkinson.</item>
+                     <item>Thomas Warren of Layham.</item>
+                     <item>John Swaine. Sen.</item>
+                     <item>William Douglas.</item>
+                     <pb n="3" facs="tcp:159722:3"/>
+                     <item> Hugh Driver.</item>
+                     <item>Barthol. Golding.</item>
+                     <item>Henry Yonger.</item>
+                     <item>Nicholas Leverton.</item>
+                     <item>Barthol. Allerton.</item>
+                     <item>John Cary.</item>
+                     <item>William Browne.</item>
+                     <item>Samuel Hudson.</item>
+                     <item>Robert Wicks.</item>
+                     <item>Bezaleel Carter.</item>
+                     <item>Robert Mead.</item>
+                     <item>John Goldson.</item>
+                     <item>John Mayer.</item>
+                     <item>John Trebicke.</item>
+                     <item>Henry Bridon.</item>
+                     <item>Samuel Spring. Jun.</item>
+                     <item>John Long.</item>
+                     <item>Samuel Samwayes.</item>
+                     <item>John Rewse.</item>
+                     <item>John Witham.</item>
+                     <item>Spencer Fell.</item>
+                     <item>John Thurleby.</item>
+                     <item>Samuel Knapp.</item>
+                     <item>Benjamin Farifax.</item>
+                     <item>Richard Neach.</item>
+                     <item>James Votier.</item>
+                     <item>John Clarke.</item>
+                     <item>William Cockram.</item>
+                     <item>William Hodskins.</item>
+                     <item>George Cock.</item>
+                     <item>Thomas Fowle.</item>
+                     <item>Patrick Lindsay.</item>
+                     <item>Richard Olmsted.</item>
+                     <item>Thomas Nuttall.</item>
+                     <item>William Dowell.</item>
+                     <item>Richard Davis.</item>
+                     <item>Samuel Peirce.</item>
+                     <item>George Germy.</item>
+                     <item>Henry Searle.</item>
+                     <item>Thomas Batho.</item>
+                     <item>George Turnbull.</item>
+                     <item>Thomas Sotheby</item>
+                     <item>Samuel Spring, Sen.</item>
+                     <item>Mathias Candler.</item>
+                     <item>Jer. Cateline, Sen.</item>
+                     <item>John Swaine, Jun.</item>
+                     <item>Henry Cowper.</item>
+                     <item>Seth Etcocks.</item>
+                     <item>Jer. Catiline, Jun.</item>
+                     <item>Richard Rogers.</item>
+                     <item>John Whiting.</item>
+                     <item>Edward Brasyer.</item>
+                     <item>John Cocksedge.</item>
+                     <item>John Dodds.</item>
+                     <item>Abraham Chaplin.</item>
+                     <item>Richard Ward.</item>
+                     <item>John Forgon.</item>
+                     <item>Isaac Wilham.</item>
+                     <item>John Marleton.</item>
+                     <item>Rob. Andrews, Sen.</item>
+                     <item>Rob. Andrews, Jun.</item>
+                     <item>Thomas Peake.</item>
+                     <item>James Bacon.</item>
+                     <item>Thomas Grunby.</item>
+                     <item>Robert Harris.</item>
+                     <item>Edward Willan.</item>
+                     <item>Christo. Wragge.</item>
+                     <item>William Bedell.</item>
+                     <item>Nathaniel Cotton.</item>
+                     <item>Andrew Chaplin.</item>
+                     <item>Zachary Catlin.</item>
+                     <item>John Powell.</item>
+                     <item>John Dodd.</item>
+                     <item>Robert Devereux.</item>
+                     <item>Daniel Sutton.</item>
+                     <item>Abraham Wright.</item>
+                     <item>John Owen.</item>
+                     <item>William Cropton.</item>
+                     <item>Joshua Randall.</item>
+                     <item>William Pickering.</item>
+                     <item>Sansuel Bordman.</item>
+                     <item>Thomas Crosby.</item>
+                     <item>Paul Rainham.</item>
+                     <item>Charles Harrison.</item>
+                     <item>John Alexander.</item>
+                     <item>Ioseph Ward.</item>
+                     <item>Richard Golty.</item>
+                     <item>Sam. Faireclough.</item>
+                     <item>Richard Blackberie.</item>
+                     <item>Thomas Turnill.</item>
+                     <item>Iohn Allot.</item>
+                     <item>Anth. Thompson.</item>
+                     <item>Edward Eyres.</item>
+                     <item>Robert Cooke.</item>
+                     <item>Christopher Burrell.</item>
+                     <item>Iohn Westley.</item>
+                     <item>Iohn Pindar.</item>
+                     <item>Iohn Cradock.</item>
+                     <item>Peter Sainthill.</item>
+                     <item>Edward Voice.</item>
+                     <item>Robert Underwood</item>
+                     <item>Iohn Wall.</item>
+                     <item>Simon Iackson.</item>
+                     <item>Anthony Fenton.</item>
+                     <item>Theoph. Luddinton.</item>
+                     <item>Ambros. Salmbury.</item>
+                     <item>Rich. Chamberlin.</item>
+                     <item>Philip Iacob.</item>
+                     <item>George-Speed.</item>
+                     <item>Robert Howlet.</item>
+                     <item>Richard Hunne.</item>
+                     <item>Iohn Syer.</item>
+                     <item>Iohn Burrough.</item>
+                     <item>Clement Raye.</item>
+                     <item>Robert Stafford.</item>
+                     <item>Iohn Frost.</item>
+                     <item>Samuel Bradstreet.</item>
+                     <pb facs="tcp:159722:4"/>
+                     <item> Christopher Peart.</item>
+                     <item>Tho. Rewse.</item>
+                     <item>George Nelson.</item>
+                     <item>Thomas Warren of Polsted.</item>
+                     <item>John Brunning.</item>
+                     <item>William Munning.</item>
+                     <item>John Prat.</item>
+                     <item>Robert Asty.</item>
+                     <item>John Weld.</item>
+                     <item>Isaac Harrison.</item>
+                     <item>Samuel Maile.</item>
+                     <item>Tho. Walker.</item>
+                     <item>John Drake.</item>
+                     <item>John Hale.</item>
+                     <item>William Chapman.</item>
+                     <item>Robert Webbe.</item>
+                     <item>Thomas Curtis.</item>
+                     <item>Samuel Sutton.</item>
+                     <item>Richard Faucet.</item>
+                     <item>Robert Sayer.</item>
+                     <item>John Prat.</item>
+                     <item>Joseph Herdson.</item>
+                     <item>Anthony Barthelet.</item>
+                     <item>John Ashburne.</item>
+                  </list>
+               </div>
+               <div type="part">
+                  <list>
+                     <head>For the County of Essex.</head>
+                     <item>JOhn Morse.</item>
+                     <item>John Ferrar.</item>
+                     <item>Tho. Holmsled.</item>
+                     <item>Joseph Downing.</item>
+                     <item>Alexander Pigot.</item>
+                     <item>Robert Harmer.</item>
+                     <item>Robert Mercer.</item>
+                     <item>Timothy Rogers.</item>
+                     <item>Samuel Rogers.</item>
+                     <item>John White.</item>
+                     <item>Gamaliel Carr. jun.</item>
+                     <item>John Okye.</item>
+                     <item>George Smith.</item>
+                     <item>William Cunning<g ref="char:EOLhyphen"/>hame.</item>
+                     <item>Thomas Beard.</item>
+                     <item>John Ludgater.</item>
+                     <item>Tho. Turner.</item>
+                     <item>Tho. Simpson.</item>
+                     <item>Nath. Bugg.</item>
+                     <item>Tho. Lawson.</item>
+                     <item>John Lorkin.</item>
+                     <item>Thomas Payne.</item>
+                     <item>John Hubbert.</item>
+                     <item>Samuel Hoard.</item>
+                     <item>John Ferriby.</item>
+                     <item>Matth. Elliston.</item>
+                     <item>Hugh Glover.</item>
+                     <item>John Powell.</item>
+                     <item>William Hales.</item>
+                     <item>Phil. Sanders.</item>
+                     <item>Edward Bentall.</item>
+                     <item>Robert Powell.</item>
+                     <item>John Lavender.</item>
+                     <item>Henry Havers.</item>
+                     <item>Francis Hill.</item>
+                     <item>George Bownd.</item>
+                     <item>Elias Pledger.</item>
+                     <item>Constant Jessop.</item>
+                     <item>John Poole.</item>
+                     <item>John Wilson.</item>
+                     <item>Robert White.</item>
+                     <item>Patrick Weems.</item>
+                     <item>John Benson.</item>
+                     <item>Ralph Wharton.</item>
+                     <item>Edward Ford.</item>
+                     <item>Nich. Folgingham.</item>
+                     <item>Tho. Lathum.</item>
+                     <item>Will. Web.</item>
+                     <item>Samuel Collins.</item>
+                     <item>Ralph Hilles.</item>
+                     <item>John Paynell.</item>
+                     <item>Edmund Brewer.</item>
+                     <item>I. Gent.</item>
+                     <item>Iohn Ovend.</item>
+                     <item>Wil. Blackmore.</item>
+                     <item>Thomas Watson.</item>
+                     <item>John Wood.</item>
+                     <item>John Norton.</item>
+                     <item>Thomas Dearsly.</item>
+                     <item>James Sutton.</item>
+                     <item>Francis Gisbrough.</item>
+                     <item>Edward Thomas.</item>
+                     <item>John Firmyn.</item>
+                     <item>R. Moseley.</item>
+                     <item>Thomas Templer.</item>
+                     <item>Daniel Weld.</item>
+                     <item>Israel Heuet.</item>
+                     <item>John Symson.</item>
+                     <item>Will. Guthrie.</item>
+                     <item>Aug. Hill.</item>
+                     <item>John Andrewes.</item>
+                     <item>Anthony Sammes:</item>
+                     <item>Thomas Lawes.</item>
+                     <item>Thomas Nicholson.</item>
+                     <pb facs="tcp:159722:4"/>
+                     <item> William <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uckley.</item>
+                     <item>Nathan. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ewitson.</item>
+                     <item>William Danes.</item>
+                     <item>Iohn Shunman.</item>
+                     <item>Will. Tabor.</item>
+                     <item>Robert Brooke.</item>
+                     <item>Tho. Moody.</item>
+                     <item>Iohn Reddrich.</item>
+                     <item>Isaac Seredge.</item>
+                     <item>Iames Maldon.</item>
+                     <item>Iohn Wyllys.</item>
+                     <item>Nichol. North.</item>
+                     <item>Will. How.</item>
+                     <item>Nath. Ranew.</item>
+                     <item>Samuel Smith.</item>
+                     <item>Nehemiah Homes.</item>
+                     <item>Christopher Wragg.</item>
+                     <item>Francis Chaundler.</item>
+                     <item>Nehemiah Long.</item>
+                     <item>Iohn Peachie.</item>
+                     <item>Iohn Elborowe.</item>
+                     <item>Dan. Lathum.</item>
+                     <item>Will. Alscough.</item>
+                     <item>Samuel Wharton.</item>
+                     <item>Iohn Smith.</item>
+                     <item>Will. Willis.</item>
+                     <item>Iohn Argor.</item>
+                     <item>Thomas Pecke.</item>
+                     <item>Iohn Church.</item>
+                     <item>Tho. Orsby.</item>
+                     <item>Edward Wichy.</item>
+                     <item>Richard Carnall.</item>
+                     <item>Tho. Silverwood.</item>
+                     <item>Marmaduke Iames.</item>
+                     <item>Samuel Bridge.</item>
+                     <item>Edward Clyffe.</item>
+                     <item>Ben. Wynington.</item>
+                     <item>Samuel Smith.</item>
+                     <item>Hierom Iones.</item>
+                     <item>Rich. Ba<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ingtion</item>
+                     <item>Anthony Whit<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng.</item>
+                     <item>Robert Cite.</item>
+                     <item>William Pipple.</item>
+                     <item>Iohn Malden.</item>
+                     <item>Henry Steinmer.</item>
+                     <item>Step. Pipple.</item>
+                     <item>Iohn Edes.</item>
+                     <item>Nath. Carr.</item>
+                     <item>Thomas Salter.</item>
+                     <item>Robert Peartree.</item>
+                     <item>George Wilkinson.</item>
+                     <item>George Catony.</item>
+                     <item>Edward D<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>wet.</item>
+                     <item>Nicholas Beard.</item>
+                     <item>Abraham Caley.</item>
+                     <item>Iohn Augur.</item>
+                     <item>Is. Sutcliffe.</item>
+                     <item>Will. Wells.</item>
+                     <item>Iames Nonis.</item>
+                     <item>Samuel Purchas.</item>
+                     <item>Iohn Bedle.</item>
+                     <item>Timothy Wood<g ref="char:EOLhyphen"/>coffe.</item>
+                     <item>Samuel Ainsworth.</item>
+                     <item>Robert Rogers.</item>
+                     <item>Sam. Nowell.</item>
+                  </list>
+               </div>
+            </div>
+         </div>
+         <div type="response_to_petition">
+            <head>The Lords Answer to the said Petition.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords are glad to finde this zeale and care in the Ministery of the Counties of <hi>Suf<g ref="char:EOLhyphen"/>folk</hi> and <hi>Essex,</hi> for the preventing the fur<g ref="char:EOLhyphen"/>ther increase of Heresie and Profanenesse, and for the promoting a growth in the power of godlinesse. The Lords desire you to continue still in y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur endeavours therein, and they will not be wanting to give you all encouragement. They have comman<g ref="char:EOLhyphen"/>ded me to give you thanks for your expressions of your good affections to the Parliament and this Cause, and doe assure you
+<pb n="6" facs="tcp:159722:5"/>that they will improve their power for the suppressing of Er<g ref="char:EOLhyphen"/>rour, Heresie, seducing Teachers, and soule-subverting books, and likewise for the setling of Church Goverment according to the Word of God, and the example of the best reformed Chur<g ref="char:EOLhyphen"/>ches, to which they hold themselves obliged by their solemne League and Covenant, &amp; that their Lordships have appointed that their Petition with this Answer shall be printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+            <closer>
+               <signed>John Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Answer to the House of Commons to the Ministers Petition.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 27. Maii. 1646.</date>
+               </dateline>
+            </opener>
+            <p>THe House being informed that divers Ministers of the County of <hi>Suffolke</hi> and <hi>Essex</hi> were at the doore, they were called in, and presented to the House a Petition, intitu<g ref="char:EOLhyphen"/>led, <hi>The humble Petition of the Ministers of</hi> Suffolke <hi>and</hi> Essex, the which was read.</p>
+            <p>The Ministers were againe called in, and Mr. Speaker by command of the House acquainted them, That most of the par<g ref="char:EOLhyphen"/>ticular desires of their Petition are now under consideration, and they hope will be brought to a settlement speedily: That the House is very sensible, that through some intervening ob<g ref="char:EOLhyphen"/>structions the Church Government hath not been so fully set<g ref="char:EOLhyphen"/>led as they desire, and that they give them thankes for their good affections, and desire them to put all Ordinances in exe<g ref="char:EOLhyphen"/>cution concerning Church Government as lye within their power.</p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
